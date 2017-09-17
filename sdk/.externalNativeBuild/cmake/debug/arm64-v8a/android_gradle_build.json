@@ -1,0 +1,54 @@
+
+{
+	"buildFiles" : [ "D:/kyle/ar/mucheng/sdk/src/main/cpp/CMakeLists.txt" ],
+	"cleanCommands" : 
+	[
+		"D:\\androidsdk\\cmake\\3.6.3155560\\bin\\cmake.exe --build D:\\kyle\\ar\\mucheng\\sdk\\.externalNativeBuild\\cmake\\debug\\arm64-v8a --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"MegviiFacepp-jni-0.4.7-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "MegviiFacepp-jni-0.4.7",
+			"buildCommand" : "D:\\androidsdk\\cmake\\3.6.3155560\\bin\\cmake.exe --build D:\\kyle\\ar\\mucheng\\sdk\\.externalNativeBuild\\cmake\\debug\\arm64-v8a --target MegviiFacepp-jni-0.4.7",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=D:/androidsdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=D:/androidsdk/ndk-bundle/platforms/android-21/arch-arm64  -DMegviiFacepp_jni_0_4_7_EXPORTS -I. -ID:\\kyle\\ar\\mucheng\\sdk\\src\\main\\cpp -ID:\\kyle\\ar\\mucheng\\sdk\\src\\main\\cpp\\include -isystem D:\\androidsdk\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem D:\\androidsdk\\ndk-bundle\\sources\\android\\support\\include -isystem D:\\androidsdk\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -O0 -fno-limit-debug-info -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "D:/kyle/ar/mucheng/sdk/src/main/cpp/megvii_facepp_jni.cpp",
+					"workingDirectory" : "D:/kyle/ar/mucheng/sdk/.externalNativeBuild/cmake/debug/arm64-v8a"
+				}
+			],
+			"output" : "D:/kyle/ar/mucheng/sdk/src/main/jniLibs/arm64-v8a/libMegviiFacepp-jni-0.4.7.so",
+			"toolchain" : "431055689"
+		},
+		"face_new-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "face_new",
+			"buildType" : "debug",
+			"output" : "D:/kyle/ar/mucheng/sdk/src/main/cpp/../jniLibs/arm64-v8a/libmegface-new.so",
+			"toolchain" : "431055689"
+		},
+		"facepp-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "facepp",
+			"buildType" : "debug",
+			"output" : "D:/kyle/ar/mucheng/sdk/src/main/cpp/../jniLibs/arm64-v8a/libMegviiFacepp-0.4.7.so",
+			"toolchain" : "431055689"
+		}
+	},
+	"toolchains" : 
+	{
+		"431055689" : 
+		{
+			"cCompilerExecutable" : "D:/androidsdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "D:/androidsdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

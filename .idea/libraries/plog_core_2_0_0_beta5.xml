@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="plog-core-2.0.0-beta5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/e1baa14879460c50fc4379b41bd53d9553d7628d/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/e1baa14879460c50fc4379b41bd53d9553d7628d/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mym.plog/plog-core/2.0.0-beta5/cf4d5bbd240fb97b226817c4dd5cda309aa6dc8c/plog-core-2.0.0-beta5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

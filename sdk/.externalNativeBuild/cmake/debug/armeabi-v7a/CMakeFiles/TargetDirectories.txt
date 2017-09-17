@@ -1,0 +1,3 @@
+D:/kyle/ar/mucheng/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/MegviiFacepp-jni-0.4.7.dir
+D:/kyle/ar/mucheng/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/kyle/ar/mucheng/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir

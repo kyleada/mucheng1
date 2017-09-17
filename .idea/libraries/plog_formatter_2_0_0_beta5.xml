@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="plog-formatter-2.0.0-beta5">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/270b6f9e5c4efe1aabb9368b918d73953e09210b/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/270b6f9e5c4efe1aabb9368b918d73953e09210b/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mym.plog/plog-formatter/2.0.0-beta5/82c26022979448d4ca3354cdc09dd90c20c4cad5/plog-formatter-2.0.0-beta5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

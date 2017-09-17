@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\e1baa14879460c50fc4379b41bd53d9553d7628d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="33ba96cdc74704eef2972b1ae708efa08df55ae4">
+        <dex dex="D:\kyle\ar\MegviiFacepp-Android-SDK-master\demo\build\intermediates\pre-dexed\debug\classes_4516783551fea5fce6ea8e9c943747e224127585.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\7d0b0a15f4b6bed27d002cb726aafb8eedd000db\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="19f281a785ca0eb5f6799fc7bf7ca199a9ca1e8b">
+        <dex dex="D:\kyle\ar\MegviiFacepp-Android-SDK-master\demo\build\intermediates\pre-dexed\debug\classes_9670d41b19469db02bec582666fe43abd30df9c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.2.9\cc0d879e3c75fe106aed3651fbdaebe628ac67ef\rxjava-1.2.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cc0d879e3c75fe106aed3651fbdaebe628ac67ef">
+        <dex dex="D:\kyle\ar\MegviiFacepp-Android-SDK-master\demo\build\intermediates\pre-dexed\debug\rxjava-1.2.9_c380b6ac152f80db72fca4f278e6ca180284a1ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\kyle\ar\MegviiFacepp-Android-SDK-master\faceppdemoui\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="241160203bb407d014e418e394f0e08ffc1c3bb8">
+        <dex dex="D:\kyle\ar\MegviiFacepp-Android-SDK-master\demo\build\intermediates\pre-dexed\debug\classes_d8a5f4aeb3ac430ebee8e21d4ae904eeaf53ac16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\kyle\ar\MegviiFacepp-Android-SDK-master\sdk\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0ab6d67f597044cea4984dc558b6088b7c562071">
+        <dex dex="D:\kyle\ar\MegviiFacepp-Android-SDK-master\demo\build\intermediates\pre-dexed\debug\classes_fcd743eb6bb7a908fdf82c2ea2aa0b2702237d29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\2b2bc0bf439e964f5d8c3d48aeec093b96934b15\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4744089ba76f30cbe4ee3aaa85f2b10003a11993">
+        <dex dex="D:\kyle\ar\MegviiFacepp-Android-SDK-master\demo\build\intermediates\pre-dexed\debug\classes_9678976c95953747143c686af01247b134ed0fd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.5.1\bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc\butterknife-annotations-8.5.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc">
+        <dex dex="D:\kyle\ar\MegviiFacepp-Android-SDK-master\demo\build\intermediates\pre-dexed\debug\butterknife-annotations-8.5.1_5290ebd889bdf836ef1f87a7f8bc931d4b8fa107.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.1.0\693eddc23e87ab13f9cf5001707ce8e7e1d1ff01\adapter-rxjava-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="D:\kyle\ar\MegviiFacepp-Android-SDK-master\demo\build\intermediates\pre-dexed\debug\adapter-rxjava-2.1.0_a922f2c9139fd2cbbf2500b5aa528f1e500fa2f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\kyle\ar\MegviiFacepp-Android-SDK-master\commonlib\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dfa8bcfc84a864dae18f9c33eda337d0c711fe9a">
+        <dex dex="D:\kyle\ar\MegviiFacepp-Android-SDK-master\demo\build\intermediates\pre-dexed\debug\classes_bb189c705f957c4faafac3b280d30ad4431fe554.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="D:\kyle\ar\MegviiFacepp-Android-SDK-master\demo\build\intermediates\pre-dexed\debug\gson-2.8.0_eca52502deb48db964b5e6d39d16c5eaa7bb0998.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\ed8e567390535ca8f0bf898ff8bf10d83811e5eb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1ca52ac1de743467368a975dc66d54ef9d6b8100">
+        <dex dex="D:\kyle\ar\MegviiFacepp-Android-SDK-master\demo\build\intermediates\pre-dexed\debug\classes_f403bd2199cf3f75f54fb9834b3326d86750d05e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\270b6f9e5c4efe1aabb9368b918d73953e09210b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="88590e5773076c8d7e75252e92fc3d4d3c3086bf">
+        <dex dex="D:\kyle\ar\MegviiFacepp-Android-SDK-master\demo\build\intermediates\pre-dexed\debug\classes_ca8adf3bd8a151d75c2b34ad9e28cb291affe64d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\95186bb96cca9605fcfefc339c86b57885c28003\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="401094efbd87997a34a95aaca1e31e476b3ce00c">
+        <dex dex="D:\kyle\ar\MegviiFacepp-Android-SDK-master\demo\build\intermediates\pre-dexed\debug\classes_46a26b1c71c5c724434738210d62aa19680f5228.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="D:\kyle\ar\MegviiFacepp-Android-SDK-master\demo\build\intermediates\pre-dexed\debug\okhttp-3.4.1_a3a718343956c6e4d917a53a4fdd4a4dc134cda5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\kyle\ar\MegviiFacepp-Android-SDK-master\demo\build\intermediates\pre-dexed\debug\glide-3.7.0_1f3ddf859a86296da03fddcf50d19f29d652df81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\joda-time\joda-time\2.9.4\1c295b462f16702ebe720bbb08f62e1ba80da41b\joda-time-2.9.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1c295b462f16702ebe720bbb08f62e1ba80da41b">
+        <dex dex="D:\kyle\ar\MegviiFacepp-Android-SDK-master\demo\build\intermediates\pre-dexed\debug\joda-time-2.9.4_a9b142aa3101484de2b8f87c8939826e319c6c0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.threeten\threetenbp\1.3.1\fecd59cfa6acebf3d0f2f41f55a1cc3e24e59726\threetenbp-1.3.1-no-tzdb.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fecd59cfa6acebf3d0f2f41f55a1cc3e24e59726">
+        <dex dex="D:\kyle\ar\MegviiFacepp-Android-SDK-master\demo\build\intermediates\pre-dexed\debug\threetenbp-1.3.1-no-tzdb_e0bb6f68d36ef7abb4a8ff94308215bd5af05bd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.4.1\381fc1096ba65040d8e80ea43b2e1d9bad02345e\logging-interceptor-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="381fc1096ba65040d8e80ea43b2e1d9bad02345e">
+        <dex dex="D:\kyle\ar\MegviiFacepp-Android-SDK-master\demo\build\intermediates\pre-dexed\debug\logging-interceptor-3.4.1_16ea2c5adabd180da0b0709521ed490e4e49b95b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\921421221acc0c44e1ffa0d38a4b6ebb35b57969\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="D:\kyle\ar\MegviiFacepp-Android-SDK-master\demo\build\intermediates\pre-dexed\debug\classes_28feae7178340713bfa7eb483dc038908b90116b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="D:\kyle\ar\MegviiFacepp-Android-SDK-master\demo\build\intermediates\pre-dexed\debug\converter-gson-2.1.0_fc6d109c83c05cddded4b5ea732ed5dd7c938086.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="D:\kyle\ar\MegviiFacepp-Android-SDK-master\demo\build\intermediates\pre-dexed\debug\eventbus-3.0.0_338198e230e883acd6c9c82ca46ba5fc3096755c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="D:\kyle\ar\MegviiFacepp-Android-SDK-master\demo\build\intermediates\pre-dexed\debug\retrofit-2.1.0_02cdaa5f093e78b272a8b951b62057cb62740b8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="D:\kyle\ar\MegviiFacepp-Android-SDK-master\demo\build\intermediates\pre-dexed\debug\okio-1.9.0_db0545b090bbd931e1cf6e43202e038727277a7d.jar" />
+    </item>
+
+</items>
